@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+backend/venv/
+venv/
+
+# Chroma Database
+backend/chroma_db/
+chroma_db/
+
+# Uploaded PDFs
+backend/uploads/
+uploads/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+dist/

@@ -173,7 +173,7 @@ python3 -m venv venv
 ### Windows
 
 ```bash
-venv\Scripts\activate
+.venv\Scripts\activate
 ```
 
 ### Linux / macOS

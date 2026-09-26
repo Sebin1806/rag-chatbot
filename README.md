@@ -157,7 +157,7 @@ cd backend
 ### Windows
 
 ```bash
-python -m venv venv
+py -3.11 -m venv .venv
 ```
 
 ### Linux / macOS

@@ -191,7 +191,7 @@ All required libraries are listed in **requirements.txt**.
 Install everything using one command:
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 This installs packages such as:
